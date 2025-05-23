@@ -10,8 +10,7 @@
 - Un score de confiance est attribué à chaque estimation en fonction de la précision des correspondances DPE
   
 ## Tech stack
-- Frontend : php
-- Backend : php
+- Frontend / Backend : php
 - Données : Ademe
 - Carte :  Google maps
 - Proxy : Zenrows
