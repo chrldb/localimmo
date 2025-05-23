@@ -38,7 +38,7 @@ Avant de lancer le projet, assurez-vous d’avoir :
 Ces clés doivent être stockées dans le fichier `.htaccess` à la racine du projet :
 
 ```apache
-SetEnv GOOGLE_MAPS_API_KEY=your_google_maps_key
-SetEnv ZENROWS_API_KEY=your_zenrows_key
+SetEnv GOOGLE_API_KEY API_KEY_HERE
+SetEnv ZENROWS_API_KEY API_KEY_HERE
 ```
 
