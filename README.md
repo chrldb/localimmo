@@ -11,7 +11,7 @@
   
 ## Tech stack
 - Frontend : php
-- Backend : php / python
+- Backend : php
 - Données : Ademe
 - Carte :  Google maps
 - Proxy : Zenrows
