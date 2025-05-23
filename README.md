@@ -6,15 +6,9 @@
 - Recherche d’annonces immobilières par critères (DPE, surface, etc.)
 - Croisement intelligent avec la base de données des DPE pour estimer une localisation
 - Affichage sur carte interactive
-- Interface intuitive pour les utilisateurs curieux ou les analystes du marché immobilier
 
 ### Tech stack
-	•	Frontend : php
-	•	Backend : php / python
-	•	Données : Ademe
-	•	Carte :  Google maps
-
-### Objectifs
-	•	Offrir un outil de veille pour les professionnels de l’immobilier
-	•	Sensibiliser à la performance énergétique dans la recherche de biens
-	•	Valoriser les données publiques en les rendant accessibles et utiles
+- Frontend : php
+- Backend : php / python
+- Données : Ademe
+- Carte :  Google maps
