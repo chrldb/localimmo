@@ -19,7 +19,7 @@
 
 ## Run the Code
 
-Pour faire fonctionner Localimmo en local, voici les étapes à suivre :
+Pour faire fonctionner Localimmo en local, les étapes à suivre :
 
 ### Pré-requis
 
