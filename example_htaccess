@@ -1,0 +1,12 @@
+SetEnv GOOGLE_API_KEY API_KEY_HERE
+SetEnv ZENROWS_API_KEY API_KEY_HERE
+
+<Files .htaccess>
+    Order allow,deny
+    Deny from all
+</Files>
+
+rewriteEngine On
+
+RewriteRule ^url$ /url.php [L]
+RewriteRule ^result$ /valider.php [L]
